@@ -7,5 +7,7 @@ O2-O
 O2-Ar
 
 Планируются: 
+
 N2 - N2 / O2 / NO / Ar / N / O
+
 NO - N2 / O2 / NO / Ar / N / O
